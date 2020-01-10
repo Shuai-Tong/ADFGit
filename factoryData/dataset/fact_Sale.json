@@ -1,6 +1,7 @@
 {
 	"name": "fact_Sale",
 	"properties": {
+		"description": "dd",
 		"linkedServiceName": {
 			"referenceName": "pierowebtooling1",
 			"type": "LinkedServiceReference"
